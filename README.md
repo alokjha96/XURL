@@ -6,9 +6,15 @@
 
 ## Overview
 
-*QMoney is a financial service company that offers world-class solutions in Portfolio Management, Investment Advisory, and Wealth Management. Founded in 2010 and headquartered in Bangalore, the company has gained the trust of 1 million+ clients to manage their finances and investment needs. In recent years, the company has grown to become one of the pioneers of online trading by building the first-of-its-kind platform to make trading efficient and effortless for its customers.*
+*Implemented the functionality that will generate a Short URL for a specified long URL and retrieve the long URL by looking up the short URL.*
 
-**Skills Used -** Java, REST API, Jackson, Interfaces, Code Refactoring, Gradle, Exception Handling, Multithreading.
+## Key Files
+
+*1) XUrl.java → Defines the interface with methods needed for the Short URL utility.
+ 2) XUrlImpl.java → It should implement the XUrl interface. 
+ 3)XUrlMain.java → Starting point for execution. This file initializes the XUrlImpl object and tests out the functionality.*
+
+**Skills Used -** Java.
 
 ---
 **QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.**
