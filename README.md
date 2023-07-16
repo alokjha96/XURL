@@ -12,7 +12,7 @@
 
  1) XUrl.java → Defines the interface with methods needed for the Short URL utility.
  2) XUrlImpl.java → It should implement the XUrl interface. 
- 3)XUrlMain.java → Starting point for execution. This file initializes the XUrlImpl object and tests out the functionality.
+ 3) XUrlMain.java → Starting point for execution. This file initializes the XUrlImpl object and tests out the functionality.
 
 **Skills Used -** Java.
 
