@@ -1,6 +1,6 @@
 # xURL - [A URL Shortner Service]
 <p align="center"> 
-  ![xurl](https://github.com/alokjha96/XURL/assets/55464212/01aeb03c-4df4-41d6-b897-ba1d61abd0f8)
+  <img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Person">
 
 
 
