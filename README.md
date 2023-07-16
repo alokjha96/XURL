@@ -17,7 +17,7 @@
 **Skills Used -** Java.
 
 
-![Output] (https://github.com/alokjha96/XURL/blob/main/xurldemo.PNG)
+![Output](https://github.com/alokjha96/XURL/blob/main/xurldemo.PNG)
 
 <p align="center"> <b>xURL Demo</b> </p>
 
