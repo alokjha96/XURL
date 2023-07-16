@@ -21,47 +21,14 @@
 
 <p align="center"> <b>xURL Demo</b> </p>
 
+### Prerequsites
 
+Java Development Kit (JDK) 8 or higher
 
-### Scope of Work
+### Installation
 
--   Used Tiingo’s REST APIs to fetch stock quotes.
--   Computed the annualized returns based on stock purchase date and holding period.
+1)  Clone this Repository Using
+  git clone https://github.com/alokjha96/XURL.git
+2)  Open the project in your preferred Java IDE (e.g., IntelliJ, Eclipse).
+3)  Execute using ./gradlew run command  
 
-### Skills used
-
-Java, REST API, Jackson
-
-## Refactor using Java interfaces and publish a JAR file
-
-### Scope of Work
-
--   Refactored code to adapt to an updated interface contract published by the backend team.
--   Published the portfolio manager library as a JAR for easy versioning and distribution.
--   Created examples to help document library (JAR) usage.
-
-### Skills used
-
-Interfaces, Code Refactoring, Gradle
-
-## Improve application availability and stability
-
-### Scope of Work
-
--   Added support for a backup stock quote service (Alpha Vantage) to improve service availability.
--   Improved application stability with comprehensive error reporting and better exception handling.
-
-### Skills used
-
-Interfaces, Exception Handling
-
-## Enhance application performance
-
-### Scope of Work
-
--   Improved application responsiveness by introducing multithreading.
--   Wrote unit tests to measure performance improvements.
-
-### Skills used
-
-Multithreading
