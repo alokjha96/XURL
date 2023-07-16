@@ -16,20 +16,12 @@
 
 **Skills Used -** Java.
 
----
-**QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.**
--   Implemented the core logic of the portfolio manager and published it as a library.    
--   Refactored code to add support for multiple stock quote services.    
--   Improved application stability and performance.    
----
-![QMoney Architecture](https://github.com/axitchandora/Personal-Stuff/blob/main/Images/ME_QMONEY_V2_MODULE_ME_QMONEY_V2_MODULE_JSON_PARSING_1633318898_image_1.png)
 
-<p align="center"> <b>QMoney Architecture</b> </p>
+![Output](https://github.com/alokjha96/XURL/blob/main/xurldemo.PNG)
 
-![QMoney Portfolio Manager Interface](https://github.com/axitchandora/Personal-Stuff/blob/main/Images/ME_ME_QMONEY_MODULE_PROJECT_REPORT_image_1.png)
-<p align="center"> <b>QMoney Portfolio Manager Interface</b> </p>
+<p align="center"> <b>xURL Demo</b> </p>
 
-## Fetch stock quotes and compute annualized stock returns
+
 
 ### Scope of Work
 
