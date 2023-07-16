@@ -1,6 +1,6 @@
 # xURL - [A URL Shortner Service]
 <p align="center"> 
-  <img width="200" height="200" src="https://raw.githubusercontent.com/axitchandora/Person">
+  <img width="200" height="200" src="https://github.com/alokjha96/XURL/blob/main/xurl.png">
 
 
 
